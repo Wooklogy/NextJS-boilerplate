@@ -3,7 +3,7 @@
     <img src="https://miro.medium.com/max/650/1*oAwGDARfOzWoZnq1Rhingg.png" width="200" alt="Nest Logo" />
   </a>
   </p>
-<div style="font-size:12px;"> <b>작성자 : </b> 장현욱 (hwjang@antsome.com)</div>
+<div style="font-size:12px;"> <b>작성자 : </b> 장현욱 (wkdgusdnr55@gmail.com)</div>
 
 # 목차
 1. [문서](#문서)
